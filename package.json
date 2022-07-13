@@ -1,0 +1,20 @@
+{
+  "name": "js-streams-18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chocsx/js-streams-18.git"
+  },
+  "keywords": [],
+  "author": "chocsx <mateus.webphp@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chocsx/js-streams-18/issues"
+  },
+  "homepage": "https://github.com/chocsx/js-streams-18#readme"
+}
